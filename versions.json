@@ -6,5 +6,9 @@
   "AnziLifesteal": {
     "version": "1.2",
     "download": "https://builtbybit.com/resources/anzilifesteal.107333/"
+  },
+  "anziutils": {
+    "version": "1.2.6",
+    "download": "https://builtbybit.com/resources/anziutils.100149/"
   }
 }
